@@ -1,6 +1,6 @@
 # Penelitian Kerentanan
 
-Penelitian ini bertujuan untuk mengidentifikasi dan mengevaluasi kerentanan keamanan. Semua pengujian dilakukan dengan tidak merusak sistem.
+This research aims to identify and evaluate security vulnerabilities. All testing is carried out without damaging the system.
 
 ## Disclaimer
 
