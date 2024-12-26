@@ -1,0 +1,15 @@
+ffmpeg -f lavfi -i color=c=black:s=1280x720:d=10 -vf "drawtext=textfile=file.txt:fontsize=24:fontcolor=white:x=10:y=10" file.mp4
+
+
+
+catatan;
+‰
+masuk folder testing
+bikin file file.txt
+jalankan perintah diatas
+
+
+
+sesuaikan sesuai selera,
+upload ke youtube penyimpanan tanpa batas,
+bikin playlist di yutub,
