@@ -1,1 +1,9 @@
+#apt install ttyrec
+#ttyrec mysession.log
+#exit
+#ls
+#ttyplay mysession.log
 
+note:
+sangat kepake sambil rekam sambil ngomong, jadi gak belibet pake ngetik segala, tipo jg repot lagi,
+dah pake ini aja, jiyahaha
