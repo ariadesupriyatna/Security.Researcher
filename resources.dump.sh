@@ -1,5 +1,5 @@
 #dev by adearie
-#penggunaan:: #bash resources.dump.sh file.apk
+#penggunaan:: #bash resources.dump.sh file.apk > hasil.txt
 
 #!/bin/bash
 
