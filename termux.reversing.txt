@@ -1,0 +1,31 @@
+list tools archlinux proot-distro, reverse engineering
+
+
+
+1. pacman -S binwalk
+2. pacman -S jadx
+3. pacman -S hashcat
+4. pacman -S radare2
+5. pacman -S r2ghidra
+6. pacman -S upx
+7. pacman -S ltrace
+8. pacman -S binutils
+9. pacman -S strace
+10. pacman -S xortool
+11. pacman -S nasm
+12. pacman -S volatility3
+13. pacman -S valgrind
+14. pacman -S peda
+15. pacman -S tcpdump
+16. pacman -S mitmproxy
+17. pacman -S netcat
+18. pacman -S tor
+19. pacman -S unhide
+20. pacman -S openvpn
+21. pacman -S python-shodan
+22. pacman -S yara
+23. pacman -S rizin 
+24. pacman -S vim
+25. etc
+
+https://docs.remnux.org/
