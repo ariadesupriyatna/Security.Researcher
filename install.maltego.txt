@@ -1,0 +1,15 @@
+install.maltego
+
+#apt update -y && apt upgrade -y
+
+#pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Kali/kali.sh && bash kali.sh
+
+#wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/DesktopEnvironment/Apt/Xfce4/de-apt-xfce4.sh --no-check-certificate && bash de-apt-xfce4.sh
+
+#apt update -y && apt upgrade -y
+
+#open https://github.com/EXALAB/AnLinux-App/wiki/How-to-connect-to-VNC-Server
+
+#apt install maltego -y
+
+#maltego
