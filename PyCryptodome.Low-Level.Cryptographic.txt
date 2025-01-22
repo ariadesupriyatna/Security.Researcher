@@ -1,0 +1,9 @@
+
+
+#apt update -y && apt upgrade -y
+
+#apt install tur-repo -y
+
+#apt list | grep pycryptodomex
+
+>> https://www.pycryptodome.org/
