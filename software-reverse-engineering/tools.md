@@ -1,4 +1,4 @@
-![ri](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/me.jpg)
+![ri](https://github.com/ariadesupriyatna/Security.Researcher/blob/main/software-reverse-engineering/me.jpg)
 
 A collection of awesome Android app reverse engineering resources
 
@@ -227,7 +227,7 @@ A collection of awesome Android app reverse engineering resources
 - [Profesional](https://challenges.re/)
 
 
-![y](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/Solo.Leveling.jpeg)
+![y](https://github.com/ariadesupriyatna/Security.Researcher/blob/main/software-reverse-engineering/Solo.Leveling.jpeg)
 
 
 ## Teams 🇮🇩
