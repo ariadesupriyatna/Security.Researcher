@@ -5,9 +5,6 @@ A collection of awesome Android app reverse engineering resources
 1. Without Root ;)
 2. All android version =)
 3. Open Source!
-4. my favorite 🤫🤐
-
-![LIST](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/BlackFishSeven.jpg)
 
 ## https://0xbf7.github.io/team/
 - [Disassembler](https://github.com/timscriptov/Disassembler/releases)
@@ -152,7 +149,6 @@ A collection of awesome Android app reverse engineering resources
 - [SmartPack-Kernel-Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager/releases)
 
 
-![LIST](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/linux.png)
 
 
 ## Alternative not open source 
@@ -216,7 +212,6 @@ A collection of awesome Android app reverse engineering resources
 - [PdaNet+](https://play.google.com/store/apps/details?id=com.pdanet)
 
 
-![x](https://github.com/ariadesupriyatna/software-reverse-engineering/blob/main/3.jpeg)
 
 ## Lifelong Learning
 - [stackexchange](https://reverseengineering.stackexchange.com/)
