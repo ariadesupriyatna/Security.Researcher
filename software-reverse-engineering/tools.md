@@ -7,6 +7,7 @@ A collection of awesome Android app reverse engineering resources
 3. Open Source!
 
 ## https://0xbf7.github.io/team/
+- [RNX OS](https://github.com/awnto/rnx-dl-4/releases/)
 - [Disassembler](https://github.com/timscriptov/Disassembler/releases)
 - [Android-Disassembler](https://github.com/yhs0602/Android-Disassembler/releases)
 - [BinEd](https://github.com/exbin/bined-android/releases)
