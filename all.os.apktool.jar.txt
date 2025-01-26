@@ -1,0 +1,11 @@
+#tested = termux
+
+
+
+#apt install wget -y
+[   versi apktool_2.11.0, cek release terbaru  ]
+#wget https://github.com/iBotPeaches/Apktool/releases/download/v2.11.0/apktool_2.11.0.jar
+[ install java 21, cek versi tebaru ]
+#apt install openjdk-21 -y
+[ ubah file.apk  ke aplikasi yang mau di modif ]
+#java -jar apktool_2.11.0.jar d file.apk
