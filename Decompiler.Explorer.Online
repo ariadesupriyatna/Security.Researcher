@@ -1,0 +1,6 @@
+[ bikn dummy binari, file test.bin ganti dengan... bisa file.so CTF dan sebagainya ]
+#dd if=/dev/urandom of=test.bin bs=1M count=3
+[ bagi jadi beberapa bagian file ]
+#split -b 1900k test.bin bin_
+[ masukkan ke situs ini satu persatu ]
+#https://dogbolt.org/
