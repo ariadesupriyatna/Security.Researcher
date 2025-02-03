@@ -1,0 +1,52 @@
+[  Android Dalvik Killer ]
+https://sfl.gl/h6rc96Vs
+[ Cara merubah FONT di Aplikasi QuickEdit ]
+https://sfl.gl/KCgPdbL1
+[ Cara Merubah File.apks Menjadi File.apk ]
+https://sfl.gl/XxBi
+[ Decompile APK on Android <=> Source Code Java ]
+https://sfl.gl/EW8G2e
+[ Cara Decrypt Config HTTP Custom Menggunakan Termux ]
+https://sfl.gl/kZMUsM2
+[ Cerita Pengalaman Memodifikasi Aplikasi TikTok Lite ]
+https://sfl.gl/sM30wos
+[ Rot13 + NATO + Base16 | Tempe ]
+https://sfl.gl/wtL9
+[ How to read smali script with Jadx(Fallback) NP Manager ]
+https://sfl.gl/UFTxW
+[ Dump Lib Data |x|x| Hex Editor { Termux } ]
+https://sfl.gl/jk5X6EC
+[ CTF RevEng | Lanjutan Dari Sebelumnya ]
+https://sfl.gl/YEcaMkOq
+[ CTF RevEng || Apktool_M & MT Manager ]
+https://sfl.gl/QM96
+[ Aplikasi Ngoprek ]
+https://sfl.gl/Z00AUy
+[ Split By Architecture || Apktool M ]
+https://sfl.gl/TbxC37LG
+[ Remove Signature Verification || Apktool M ]
+https://sfl.gl/xAtifz
+[ Merge DEX | NP Manager ]
+https://sfl.gl/AfLmJqSb
+[ 1 classes.dex divided by 2 or more | NP Manager ]
+https://sfl.gl/TzZy0ge
+[ View Smali Flowchart on NP Manager Free ]
+https://sfl.gl/IZf0tO
+[ How to Create Dialog on File.apk in NP Manager ]
+https://sfl.gl/YkZtN
+[ How to Encrypt & Decrypt File.apk on NP Manager ]
+https://sfl.gl/yEli0eH
+[ Merubah Ukuran Aplikasi Menjadi Lebih Kecil ]
+https://sfl.gl/L86wdY
+[ VPN Client Pro ]
+https://sfl.gl/3yWoeoA
+[ Reverse Engineering | Day 7 ]
+https://sfl.gl/ei7LU
+[ Reverse Engineering | Day 6 ]
+https://sfl.gl/HEH5sUb
+[ Reverse Engineering | Day 5 ]
+https://sfl.gl/SLqyzWl
+[ Reverse Engineering | Day 4 ]
+https://sfl.gl/MmkZ
+[ Amateur Radio and RF enthusiast || TokekOS ]
+https://sfl.gl/i8Tuy
