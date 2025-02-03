@@ -1,0 +1,20 @@
+[ Bermain Main Dengan Javascript, "Mengetahui Informasi Dari Suatu Website" || security researcher ]
+https://sfl.gl/bJCjQt
+[ Tutorial OpenCV Python || Bahasa Indonesia ]
+https://sfl.gl/0hK89uEF
+[ MongoDB Exploitation ]
+https://sfl.gl/oeAwJ
+[ Unity Engine Reverse Engineering ]
+https://sfl.gl/Wy1T
+[ Android Hacking Dynamic Analysis ]
+https://sfl.gl/tE8qoaBY
+[ Meterpreter cheat sheet ]
+https://sfl.gl/1B1TbE
+[ Metasploit cheat sheet ]
+https://sfl.gl/mD9i2
+[ MSFVenom cheat sheet ]
+https://sfl.gl/bGcP
+[ Oracle TNS Poison vulnerability ]
+https://sfl.gl/R9FRRDd
+[ NetBIOS enumeration ]
+https://sfl.gl/wREJ
