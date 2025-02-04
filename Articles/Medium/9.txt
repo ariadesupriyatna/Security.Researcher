@@ -1,0 +1,60 @@
+[ Install Slackware Linux Arm on Termux ]
+https://sfl.gl/qc9q
+[ Bypass SSL Pinning without root || Reqable Packet Capture & Scripts Api Tester ]
+https://sfl.gl/4Yvo
+[ search all apps in the nethunter store ]
+https://sfl.gl/7QEXdrYR
+[ "persistent shell" ]
+https://sfl.gl/rEIB
+[ Cara Menggunakan Aplikasi Tun2Tap di Android ]
+https://sfl.gl/UCoei
+[ obfuscate & unobfuscate string = all populer programming language ]
+https://sfl.gl/T3bvCkC
+[ Badan Intelijen Negara ]
+https://sfl.gl/EVKjD17
+[ isengin teman, ngabisin memori RAM hp/pc via Chrome ]
+https://sfl.gl/PAAci7
+[ isengin teman, seolah-olah hpnya kena virus ]
+https://sfl.gl/2q6nyuwr
+[ Yok Yang Mau Nerbitkan Buku & Merilis Film di BRIN ]
+https://sfl.gl/bmumB
+[ Yok Yang Mau Jadi Anggota ORARI ]
+https://sfl.gl/upqPgfi
+[ Initial Kiosk Observation ]
+https://sfl.gl/azWe4F
+[ OTP Leakage via Inspect Element | Bug Bounty PoC ]
+https://sfl.gl/ei9N
+[ Exception? || tentang koding ]
+https://sfl.gl/lXd8kS
+[ Planespotting && Aircraft OSINT ]
+https://sfl.gl/bzIY
+[ Bruteforce Lockscreen PIN on Android | no root & no adb ]
+https://sfl.gl/SLKCT9l
+[ Learning C Shell Scripting ]
+https://sfl.gl/fGCI9T
+[ Build apk | C# ]
+https://sfl.gl/rxl5k0
+[ inspect element dalam konteks program bug bounty ]
+https://sfl.gl/j1ys
+[ Audacity ]
+https://sfl.gl/lKor
+[ GNU Octave || Scientific Programming Language ]
+https://sfl.gl/vDxeTQ3
+[ gnuplot ]
+https://sfl.gl/92IDy
+[ Wargame (hacking) ]
+https://sfl.gl/SBUmrv
+[ Belajar Menggunakan Linux, Untuk Pemula Pasti Auto Bisa ]
+https://sfl.gl/sRuRFs9k
+[ Origin IP Exposed WAF Bypass ]
+https://sfl.gl/LD6f8JlW
+[ Bypass Respons 403 Xpath Injection ]
+https://sfl.gl/4QqoI5
+[ Flutter Reverse Engineering ]
+https://sfl.gl/vWafX1
+[ Belajar Pentesting Aplikasi Perbankan , Langsung Praktek! ]
+https://sfl.gl/pd90
+[ PoC SQL Injection | Day 7 ]
+https://sfl.gl/KBRpJPl6
+[ PoC SQL Injection | Day 6 ]
+https://sfl.gl/Yud9H2
