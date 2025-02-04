@@ -1,0 +1,74 @@
+[ JADI ADMIN TANPA HARUS LOGIN | Bug Bounty PoC ]
+https://sfl.gl/Za4I5t
+[ Menemukan File Sampah Yang Tersembunyi Pada OS Android ]
+https://sfl.gl/sJwKH7i
+[ Recon Methodology Fundamentals ]
+https://sfl.gl/kPDRd
+[ XSS Bypass Filters | Amazon//Imperva//Cloudflare//Akamai ]
+https://sfl.gl/xR0XR
+[ best productivity apps for iPhone ]
+https://sfl.gl/BOAuOQ
+[ Top 5 DDI (DNS, DHCP, and IP address management) Platforms ]
+https://sfl.gl/kxxYN
+[ Top 4 Load Balancing Software ]
+https://sfl.gl/8vHcw
+[ Cara Belajar untuk Menjaga Situs Web Tetap Update dan Secure ]
+https://sfl.gl/T86Uf
+[ Hijacking ]
+https://sfl.gl/45Om
+[ Zero Click Account Takeover ]
+https://sfl.gl/YB9VTBB
+[ Exploit Finder ]
+https://sfl.gl/WIZfLBY
+[ Lomba Capture the Flag Gratis dari Seluruh Dunia ]
+https://sfl.gl/F09JBpHU
+[ Cara Akses Situs Wikipedia 0 Kuota 0 Pulsa ]
+https://sfl.gl/ecxZE8ew
+[ Cara Menulis Artikel Wikipedia ]
+https://sfl.gl/EzZfdtN
+[ secure cloud password manager ]
+https://sfl.gl/VNX4Ci
+[ Airdrop ]
+https://sfl.gl/DVulvV
+[ Kelebihan Walkie Talkie dan perbedaannya dengan Handy Talky ]
+https://sfl.gl/pfeTq
+[ Running tool Hydra on Termux ]
+https://sfl.gl/CiP62S
+[ “search exploits using terminal linux(termux/ubuntu/etc)” ]
+https://sfl.gl/38eKG0
+[ Belajar Menggunakan ShadowSocks ]
+https://sfl.gl/pnJq2
+[ Secure cloud storage ]
+https://sfl.gl/6tDsgst1
+[ 5 MacOS Apps For Developers ]
+https://sfl.gl/nqjA
+[ Running Ubuntu OS on Android ]
+https://sfl.gl/FhxOrV
+[ Limo telu,> free public dns resolver ]
+https://sfl.gl/6Ths
+[ open library ]
+https://sfl.gl/25mYYzJC
+[ How to install Metasploit in Termux without root | All android versions | Vulnerability assessment | Pentesting & bugHunting ]
+https://sfl.gl/lg3WwPO
+[ live Chatting via Bluetooth using Android ]
+https://sfl.gl/enPt
+[ Hack Money on Offline Apk Games, Using Game Guardian ]
+https://sfl.gl/t6YRyt5p
+[ Reverse Engineering | mengambil data SQL dari suatu aplikasi secara mudah di Android [root] ]
+https://sfl.gl/VsbV5h
+[ Module Magisk? ]
+https://sfl.gl/uRcIc
+[ OpenWrt ]
+https://sfl.gl/9QyrmFB9
+[ OPREK ANDROID ROOT/NO ROOT ]
+https://sfl.gl/CAJQD
+[ Rekomendasi Game Hacker di Android ]
+https://sfl.gl/ApnqM9x
+[ Running RaspberryPi OS on Android ]
+https://sfl.gl/Mgsx
+[ Running FreeBSD on Android ]
+https://sfl.gl/bmxs6ld
+[ Account takeover ]
+https://sfl.gl/Sb6799V
+[ Bypass Web Application Firewall ,> Amazon Web Services ]
+https://sfl.gl/aCv4
