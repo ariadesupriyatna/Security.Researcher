@@ -1,0 +1,64 @@
+[ Spectrum Analyzer for Android using the HackRF ]
+https://sfl.gl/E52sl20
+[ tutorial monitoring frekuensi HF pakai Android ]
+https://sfl.gl/uxBsbP
+[ RTL-SDR di Android untuk memantau frekuensi Radio ]
+https://sfl.gl/J1LVe
+[ isengin teman, bikin keyboard hpnya jadi error ]
+https://sfl.gl/3Rf50f
+[ DroidSat ]
+https://sfl.gl/YV9X
+[ GPSLogger ]
+https://sfl.gl/1nry896
+[ 0day / Zero Day \ new exploits ]
+https://sfl.gl/IMxlt
+[ Kumpulan Tools & Exploit Untuk Pentest Web & Apk | versi Andro1d ]
+https://sfl.gl/Z4ywRLko
+[ Python Marshal ]
+https://sfl.gl/AqL2H
+[ Tools Monitoring System || BTOP ]
+https://sfl.gl/74eV5
+[ DHCP Snooping ]
+https://sfl.gl/nDnL6W
+[ Roadmap Sertifikasi IT ]
+https://sfl.gl/0rCPFG
+[ Top 4 Alat untuk Mengembangkan API ]
+https://sfl.gl/u1fd4jY
+[ url admin panel ]
+https://sfl.gl/qaMSNbPC
+[ Basic WAF based SQL injection ]
+https://sfl.gl/Hhu3WZ
+[ 4.000+ Google Dorks List 2020 - 2024 ]
+https://sfl.gl/ueWQ5Xj
+[ Memory Patching ]
+https://sfl.gl/nM7M
+[ NetCat for pentesters ]
+https://sfl.gl/lJzMgPE
+[ Run Android Studio on Android Phone ! Flutter | Java | Kotlin | Code on Android ]
+https://sfl.gl/st2NG
+[ Cara Install WireShark Di TermuX Android Tanpa Root ]
+https://sfl.gl/gchYpJ9Y
+[ How to Install VS Code on Your Phone Using Termux! ]
+https://sfl.gl/cU7BUI
+[ Cara install script Termshark pada termux terbaru ]
+https://sfl.gl/Hq3Njs
+[ How to install PyCharm on Android - PyCharm on Termux (Debian proot) - Android Python IDE ]
+https://sfl.gl/qwyX5Yxj
+[ Cara Install dan Kustomisasi FISH SHELL di Linux ]
+https://sfl.gl/1C4h
+[ How to install BurpSuite and ZAProxy on Android (Termux Debian Proot) - Hacking on Android - No Root ]
+https://sfl.gl/GK5unEm
+[ Cara Baru Setingan Psiphon Pro | Powered by ariadesupriyatna ]
+https://sfl.gl/mvsM3lXm
+[ Belajar Hacking & Teknologi, Dari Artikel Secara Gratis, Disini !!!!! ]
+https://sfl.gl/jYARq
+[ Jailbreaking ? ]
+https://sfl.gl/IAq7COs
+[ Tutorial mendownload project di github dan gitlab ]
+https://sfl.gl/ZkB39Gc
+[ Tools Hacking All OS Linux ]
+https://sfl.gl/Kg0Se
+[ Advanced tool > Crack Password PDF ]
+https://sfl.gl/q7zx5SC
+[ Identify technologies on websites ! Tool online ]
+https://sfl.gl/TAH1S1
