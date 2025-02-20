@@ -216,7 +216,7 @@ A collection of awesome Android app reverse engineering resources
 - [PdaNet+](https://play.google.com/store/apps/details?id=com.pdanet)
 - [http custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom)
 - [http injector](https://play.google.com/store/apps/details?id=com.evozi.injector)
-- [psiphon](https://play.google.com/store/apps/details?id=com.psiphon3.subscription)
+- [OpenTunnel](https://play.google.com/store/apps/details?id=com.opentunnel.app)
 - [netmodhttp](https://sourceforge.net/projects/netmodhttp/)
 - [darktunnel](https://play.google.com/store/apps/details?id=net.darktunnel.app)
 
