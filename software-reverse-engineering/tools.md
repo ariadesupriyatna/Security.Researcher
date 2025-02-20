@@ -156,6 +156,7 @@ A collection of awesome Android app reverse engineering resources
 - [Apktool M](https://maximoff.su/apktool/?lang=en)
 - [MT manager](https://mt2.cn/)
 - [NP manager](http://normalplayer.top)
+- [APK manager](https://t.me/apk_manager)
 - [Dexplorer](https://play.google.com/store/apps/details?id=com.dexplorer)
 - [jasi patcher](https://jasi2169.com/jasi-patcher/)
 - [Lucky Patcher](https://www.luckypatchers.com/download/)
