@@ -215,7 +215,7 @@ A collection of awesome Android app reverse engineering resources
 - [NetShare - no-root-tethering](https://play.google.com/store/apps/details?id=kha.prog.mikrotik)
 - [PdaNet+](https://play.google.com/store/apps/details?id=com.pdanet)
 - [http custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom)
-- [http injector(https://play.google.com/store/apps/details?id=com.evozi.injector)
+- [http injector](https://play.google.com/store/apps/details?id=com.evozi.injector)
 - [psiphon](https://play.google.com/store/apps/details?id=com.psiphon3.subscription)
 - [netmodhttp](https://sourceforge.net/projects/netmodhttp/)
 - [darktunnel](https://play.google.com/store/apps/details?id=net.darktunnel.app)
