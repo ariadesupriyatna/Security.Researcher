@@ -7,6 +7,11 @@ A collection of awesome Android app reverse engineering resources
 3. Open Source!
 
 ## https://0xbf7.github.io/team/
+- [v2rayNG](https://github.com/2dust/v2rayNG/releases)
+- [wireguard](https://git.zx2c4.com/wireguard-android)
+- [teavpn2](https://github.com/TeaInside/teavpn2)
+- [psiphon](https://github.com/Psiphon-Inc/psiphon-android)
+- [InviZible Pro](https://github.com/Gedsh/InviZible/releases)
 - [RNX OS](https://github.com/awnto/rnx-dl-4/releases/)
 - [Disassembler](https://github.com/timscriptov/Disassembler/releases)
 - [Android-Disassembler](https://github.com/yhs0602/Android-Disassembler/releases)
